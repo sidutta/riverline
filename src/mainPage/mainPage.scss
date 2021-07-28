@@ -1,0 +1,1242 @@
+
+.landing-page{
+    .pos-abs-particles{
+        position: absolute;
+        z-index: 99;
+        width: 100%;
+    }
+    .main{
+        background-image: url('../assets/images/particles-faded-bg.jpg');
+        height: 1000px;
+        position: relative;
+        .tagline-div{
+            position: absolute;
+            z-index: 999;
+            transform: translate(-50%,-50%);
+            top: 50%;
+            left: 50%;
+            width: 100%;
+                :first-child {
+                    font-family: 'LatoWeb';
+                    color: white;
+                    text-transform: uppercase;
+                    font-size: 30px;
+                    margin-bottom: 0;
+                  }
+    
+                  :nth-child(2){
+                    font-family: 'LatoWebHairline';
+                    color: white;
+                    text-transform: uppercase;
+                    font-size: 22px;
+                  }
+                  .gradient-box {
+                    margin: auto;
+                    font-size: 10px;
+                    width: 145px;
+                    padding: 12px 0px;
+                    transition: transform .5s ease;
+                    border-left: 2px solid #235c8e;
+                    border-right: 2px solid #184b7c;
+                    border-radius: 19px;
+                    box-sizing: border-box;
+                    background-position: 0 0, 0 100%;
+                    background-repeat: no-repeat;
+                    background-size: 100% 3px;
+                    box-sizing: border-box;
+                    cursor: pointer;
+                    background-image: linear-gradient(to right, #012958 0%, #448fc3 91%), linear-gradient(to right, #256091 0%, #012958 100%);
+                        background-image: -webkit-linear-gradient(left, #012958 0%, #448fc3 91%), -webkit-linear-gradient(left, #256091 0%, #012958 100%);
+                        background-image: -moz-linear-gradient(left, #012958 0%, #448fc3 91%), -moz-linear-gradient(left, #256091 0%, #012958 100%);
+                        background-image: -o-linear-gradient(left, #012958 0%, #448fc3 91%), -o-linear-gradient(left, #256091 0%, #012958 100%);
+                     &:hover{
+                        transform: scale(1.2);
+                   
+                     }
+                        p{
+                            font-size: 12px;
+                            margin-bottom: 0;
+                        }
+                  }
+           
+        }
+
+        .social-media-icon-bar{
+            position: absolute;
+            bottom: 6px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 999;
+           ul{
+               padding-left: 0;
+               list-style-type: none;
+               li{
+                width: 33px;
+                margin-right: 15px;
+                display: inline-block;
+                &:last-child{
+                    margin-right: 0px; 
+                }
+                svg{
+                    transition: transform .5s ease;
+                    
+                    .cls-1{
+                        fill:none;
+                        stroke:#fff;
+                        stroke-miterlimit:
+                        10;
+                        stroke-width:2px;
+                    }
+                    .cls-2{
+                        fill:#f60;
+                    }
+                    &:hover{
+                        transform: scale(1.5);
+                    }
+                }
+                
+               }
+           }
+
+          
+        }
+    }
+}
+
+
+.about-us{
+    .about-us-bg{
+        background-image: url('../assets/images/about-us-bg.png');
+       height: auto;
+        .heading{
+            font-family: 'Roboto Black';
+            color: #4490c4;
+            text-transform: uppercase;
+            text-align: center;
+            font-size: 34px;
+            padding-top: 30px;
+        }
+        .about-us-para{
+            font-family: 'Roboto Light';
+            color: black;
+            text-align: left;
+            word-break: break-all;
+        }
+        .factors-of-sucess-div{
+            .factors-of-sucess-p{
+                font-family: 'Roboto Black';
+                color: black;
+                text-transform: uppercase;
+                text-align: center;
+                font-size: 18px;
+                letter-spacing: 1.5px;
+            }
+            .factors-of-sucess-icons-div{
+                padding-bottom: 30px;
+                ul{
+                    padding-left: 0;
+                    list-style-type: none;
+                    li{
+                        display: inline-block;
+                        width: 110px;
+                        margin-right: 10px;
+                        &:last-child{
+                            margin-right: 0px; 
+                        }
+                        svg{
+                            .cls-11{
+                                fill:none;
+                                stroke:#4490c4;
+                                stroke-width:5px;
+                            }
+                            .cls-22
+                            {
+                                opacity:0.75;
+                            }
+                            .cls-22,.cls-44,.cls-55,.cls-66
+                            {
+                                isolation:isolate;
+                            }.cls-33{
+                                fill:#fff;
+                            }
+                            .cls-55,.cls-66
+                            {
+                                font-size:15.88px;
+                                fill:#010101;
+                                font-family: 'Roboto Bold';
+                                font-weight:700;
+                            }
+                            .cls-66{
+                                letter-spacing:-0.01em;
+                            }
+                            .cls-77{
+                                letter-spacing:0.02em;
+                            }
+                            .cls-88{
+                                clip-path:url(#clip-path);
+                            }
+
+                            .cls-111,.cls-222
+                            {fill:none;}
+                            .cls-222{stroke:#4490c4;stroke-width:5px;}
+                            .cls-333{opacity:0.75;}
+                            .cls-444{fill:#fff;}
+                            .cls-555{isolation:isolate;font-size:15.88px;fill:#010101;
+                                font-family: 'Roboto Bold';
+                                font-weight:700;letter-spacing:-0.01em;}
+                            .cls-666{letter-spacing:0em;}.cls-777{letter-spacing:0.02em;}
+                            .cls-888{clip-path:url(#clip-path);}
+                        }
+                    }
+                }
+            }
+        }
+        
+    }
+}
+
+.explore-ideo{
+    .video-div{
+        iframe{
+            width: 100%;
+            height: 600px;
+        }
+    }
+}
+.why-ideo-sec{
+    background-color: #e5e5e5;
+    padding-bottom: 50px;
+    .heading{
+        font-family: 'Roboto Black';
+        color: #ff6600;
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 34px;
+        padding-top: 30px;
+
+    }
+    
+      .why-ideo-slider-div{
+        .slick-slider{
+            margin-top: 30px;
+            .slick-prev, .slick-next{
+                &::before{
+                    font-size: 27px;
+                    line-height: 1;
+                    opacity: 1;
+                    color: black;
+                }
+
+            }
+            .slick-dots{
+                .slick-active{
+                    button:before{
+                        content: '•';
+                        color: #ff6600;
+                        opacity: 1;
+                        font-size: 20px;
+                        top: -2px;
+                    }
+                }
+                li {
+                    margin: 0;
+                    button:before{
+                        content: '°';
+                        color: #ff6600;
+                        opacity: 1;
+                        font-size: 45px;
+                    }
+                }
+            }
+        }
+      }
+    .why-ideo-slider{
+        .single-box{
+            width: 80%;
+            margin: 0 auto;
+            transition: background-color 2s ease;
+            padding-bottom: 20px;
+            padding-top:10px;
+            padding-left: 15px;
+            padding-right: 15px;
+            margin-bottom: 30px;
+            &:hover{
+                background-color: white;
+                box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.75);
+             }
+            svg{
+                width: 70px;
+                .cls-1{opacity:0.2;isolation:isolate;}
+                .cls-2{fill:#4490c4;}.cls-3{fill:#fff;}
+                .cls-33,.cls-44{fill:#fff;}.cls-33{stroke:#fff;stroke-miterlimit:10;stroke-width:0.5px;}
+            }
+            .why-ideo-bold-txt{
+                font-family: 'Roboto Black';
+                color: black;
+                text-transform: uppercase;
+                padding-top: 12px;
+                padding-bottom: 12px;
+                max-width: 200px;
+                margin: 0 auto;
+            }
+            .why-ideo-light-txt{
+                font-family: 'Roboto Light';
+                color: black;
+                font-size: 13px;
+                text-align: left;
+                margin-left: 15px;
+            }
+        }
+    }
+
+}
+
+
+.services{
+    .services-inner-bg{
+        background-image: url('../assets/images/services-bg.png');
+    }
+    .heading{
+        font-family: 'Roboto Black';
+        color: #4490c4;
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 34px;
+        padding-top: 30px;
+
+    }
+    .services-inner{
+        padding-bottom: 50px;
+        .blockchain-dev{
+            height:115px;
+            .blue-div-p{
+                bottom: -109px !important;
+            }
+        }
+        .hyperledger{
+            height:245px;
+            .blue-div-p{
+                bottom: -239px !important;
+            }
+        }
+        .smrt-contract-dev{
+            height:140px;
+           
+            .blue-div-p{
+                bottom: -133px !important;
+            }
+        }
+        .overlay-div
+        {
+            transition: left 0.6s ease-out;
+            -moz-transition: left 0.6s;
+            -webkit-transition: left 0.6s;
+            -o-transition: left 0.6s; 
+            position: absolute;
+            top :0px;
+            left: -40px;
+            opacity: 0;
+            padding: 10px;
+            width: 100%;
+            background-color: #ff6600;
+           > p{
+            font-family: 'Roboto Light';
+            color: white;
+            font-size: 12px;
+            text-align: left;
+           }
+        }
+        .blue-div{
+            margin-bottom: 15px;
+            background: #4490c4;
+            padding: 10px;
+            position: relative;
+            box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.75);
+            .blue-div-inner{
+                transition: left 0.6s ease-out;
+                -moz-transition: left 0.6s; 
+                -webkit-transition: left 0.6s;
+                -o-transition: left 0.6s;
+                width: 100%;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+            &:hover{
+                    > .blue-div-inner{
+                        left: -60px;  
+                        opacity: 0;
+                    }
+
+                    > .overlay-div{
+                        opacity: 1;
+                        left: 0px;
+                    }
+            }
+            .svg-div{
+                top: 9px;
+                position: absolute;
+                width: 30px;
+                right: 8px;
+                svg{
+                    fill: white;
+                }
+
+            }
+            .blue-div-p{
+                font-family: 'Roboto Black';
+                color: white;
+                position: absolute;
+                bottom: 6px;
+                margin-bottom: 0;
+                font-size: 13px;
+                left: 10px;
+            }
+          
+        }
+    }
+}
+
+.projects{
+    .projects-bg{
+        background-image: url('../assets/images/projects-bg.png');
+        height: auto;
+        padding-bottom: 50px;
+        .heading{
+            font-family: 'Roboto Black';
+            color: #ff6600;
+            text-transform: uppercase;
+            text-align: center;
+            font-size: 34px;
+            padding-top: 50px;
+            margin-bottom: 20px;
+        }
+        .projects-inner{
+            padding-bottom: 50px;
+            .slick-slider{
+                margin-top: 30px;
+                .slick-prev, .slick-next{
+                    &::before{
+                        font-size: 27px;
+                        line-height: 1;
+                        opacity: 1;
+                        color: white;
+                    }
+    
+                }
+                .slick-dots{
+                    .slick-active{
+                        button:before{
+                            content: '•';
+                            color: #ff6600;
+                            opacity: 1;
+                            font-size: 20px;
+                            top: -2px;
+                        }
+                    }
+                    li {
+                        margin: 0;
+                        button:before{
+                            content: '°';
+                            color: #ff6600;
+                            opacity: 1;
+                            font-size: 45px;
+                        }
+                    }
+                }
+            }
+            .projects-slider{
+                
+                .single-box{
+                    width: 80%;
+                    margin: 0 auto;
+                    padding-bottom: 80px;
+                    padding-top: 80px;
+                    padding-left: 15px;
+                    padding-right: 15px;
+                    margin-bottom: 20px;
+                    .argyle-img{
+                        width: 100px;
+                    }
+                    img{
+                        height: 80px;
+                        width: 200px;
+                        margin: 0 auto;
+                        -webkit-transform: rotate(0) scale(1);
+                        transform: rotate(0) scale(1);
+                        -webkit-transition: .3s ease-in-out;
+                        transition: .3s ease-in-out;
+                        &:hover{
+                            -webkit-transform: rotate(15deg) scale(1.4);
+                            transform: rotate(15deg) scale(1.4);
+                       
+                         }  
+
+                    }
+                }
+            }
+        }
+    }
+   
+}
+
+
+.testimonials{
+    .testimonials-bg{
+        background-color: #e5e5e5;
+        padding-bottom: 30px;
+    }
+   
+    .heading{
+        font-family: 'Roboto Black';
+        color: #4490c4;
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 34px;
+        padding-top: 30px;
+    }
+    .testimonial-inner{
+        padding-bottom: 50px;
+
+        .slick-slider{
+            margin-top: 30px;
+            .slick-prev, .slick-next{
+                top: 33%;
+                &::before{
+                    font-size: 27px;
+                    line-height: 1;
+                    opacity: 1;
+                    color: #4490c4;
+                }
+
+            }
+            .slick-dots{
+                bottom: -40px;
+
+                .slick-active{
+                    button:before{
+                        content: '•';
+                        color: #4490c4;
+                        opacity: 1;
+                        font-size: 20px;
+                        top: -2px;
+                    }
+                }
+                li {
+                    margin: 0;
+                    button:before{
+                        content: '°';
+                        color: #4490c4;
+                        opacity: 1;
+                        font-size: 45px;
+                    }
+                }
+            }
+        }
+
+
+        .testimonial-slider{
+                
+            .single-box{
+                width: 80%;
+                margin: 0 auto;
+                margin-bottom: 120px;
+                background-color: white;
+                border: 1.5px solid #4490c4;
+                position: relative;
+                border-radius: 8px;
+                padding: 15px 60px 40px 60px;
+                &::after{
+                    content: '';
+                    clip-path: polygon(100% 0, 0 0, 53% 100%);
+                    background: #4490c4;
+                    width: 40px;
+                    height: 20px;
+                    position: absolute;
+                    bottom: -20px;
+                    left: 11%;
+                }
+            svg{
+                height: 40px;
+                width: 40px;
+                margin-bottom: 10px;
+            }
+            p{
+                font-family: 'Roboto Light';
+                color: black;
+                text-align: left;
+                line-height: 1.2;
+            }
+
+            .person-div{
+                position: absolute;
+                    left: 10%;
+                    bottom: -120px;
+                ul{
+                    padding-left: 0;
+                    list-style-type: none;
+                    
+                    li{
+                        margin-right: 20px;
+                        display: inline-block;
+                        .img-div{
+                            width: 70px;
+                            border: 2px solid #4490c4;
+                            padding: 5px;
+                            border-radius: 50%;
+                            > img {
+                                width: 100%;
+                            }
+                        }
+                        .name{
+                            font-family: 'Roboto Black';
+                            text-transform: uppercase;
+                            margin-bottom: 4px;
+                            font-size: 15px;
+                        }
+                        .project{
+                            font-family: 'Roboto Light';
+                            text-transform: uppercase;
+                            margin-bottom: 0;
+                            font-size: 13px;
+                        }
+                        .abs-name-project-div
+                        {
+                            position: absolute;
+                            top: -53px;
+                            width: 150px;
+                        }
+                        
+                    }
+                }
+            }
+            }
+        }
+    }
+
+}
+
+.partners{
+    .partners-inner-bg{
+        background-image: url('../assets/images/partners-bg.png');
+        background-size: cover;
+        padding-bottom: 60px;
+    }
+    .heading{
+        font-family: 'Roboto Black';
+        color: #ff6600;
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 34px;
+        padding-top: 30px;
+
+    }
+
+    .partners-inner{
+        padding-bottom: 50px;
+        .slick-slider{
+            margin-top: 30px;
+            .slick-prev, .slick-next{
+                &::before{
+                    font-size: 27px;
+                    line-height: 1;
+                    opacity: 1;
+                    color: black;
+                }
+
+            }
+            .slick-dots{
+                bottom: -75px;
+                .slick-active{
+                    button:before{
+                        content: '•';
+                        color: #ff6600;
+                        opacity: 1;
+                        font-size: 20px;
+                        top: -2px;
+                    }
+                }
+                li {
+                    margin: 0;
+                    button:before{
+                        content: '°';
+                        color: #ff6600;
+                        opacity: 1;
+                        font-size: 45px;
+                    }
+                }
+            }
+        }  
+        .partners-slider{
+            .single-box{
+                width: 80%;
+                margin: 0 auto;
+                padding-top: 14px;
+                padding-left: 0px;
+                padding-right: 21px;
+                position: relative;
+                height: 150px;
+                margin-top: 46px;
+                .credits-img{
+                    height: 45px;
+                    margin-top: 38px;
+                }
+                img{
+                    height: 80px;
+                    width: 200px;
+                    margin: 0 auto;
+                }
+
+               span{
+                    height: 150px;
+                    background: black;
+                    width: 1.5px;
+                    position: absolute;
+                    right: 0px;
+                    top: 0px;
+                    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.4);
+                      
+                }
+                &:hover{
+                    background-color: #fffbfa;
+                    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.75);
+                 }
+            }
+        }
+
+    }
+}
+
+
+.technology-stack{
+    .technology-stack-bg{
+        background-color: #e5e5e5;
+        padding-bottom: 50px;
+        .heading{
+            font-family: 'Roboto Black';
+            color: #4490c4;
+            text-transform: uppercase;
+            text-align: center;
+            font-size: 34px;
+            padding-top: 30px;
+            margin-bottom: 40px;
+        }
+        .technology-stack-inner{
+                .tech-stack-box{
+                    transition: background-color 2s ease;
+                    height: 145px;
+    transition: background-color 2s ease;
+    padding: 20px;
+    margin: 0 auto;
+                    &:hover{
+                        background-color: white;
+                        box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.75);
+                     }
+                     img{
+                         width: 100px;
+                     }
+                     .custom-padding{
+                        padding-top: 20px;
+                     }
+                     .ERC-token-img{
+                        height: 119px;
+                        width: 78px;
+                     }
+                     .tron-img{
+                        height: 50px;
+                        width: 158px;
+                     }
+                     .meanstack-img{
+                         height: 100px;
+                     }
+
+
+                }
+                .mar-btm-20{
+                margin-bottom: 20px;;
+            }
+        }
+    }
+
+}
+
+.team{
+    .team-inner-bg{
+    }
+    .heading{
+        font-family: 'Roboto Black';
+        color: #ff6600;
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 34px;
+        padding-top: 30px;
+
+    }
+
+    .team-inner{
+        padding-bottom: 50px;
+        .slick-slider{
+            margin-top: 30px;
+            .slick-prev, .slick-next{
+                &::before{
+                    font-size: 27px;
+                    line-height: 1;
+                    opacity: 1;
+                    color: black;
+                }
+
+            }
+            .slick-dots{
+                bottom: -6px;
+                .slick-active{
+                    button:before{
+                        content: '•';
+                        color: #ff6600;
+                        opacity: 1;
+                        font-size: 20px;
+                        top: -2px;
+                    }
+                }
+                li {
+                    margin: 0;
+                    button:before{
+                        content: '°';
+                        color: #ff6600;
+                        opacity: 1;
+                        font-size: 45px;
+                    }
+                }
+            }
+
+            .single-box{
+                width: 80%;
+                    margin: 0 auto;
+                    padding-bottom: 80px;
+                    padding-top: 80px;
+                    padding-left: 25px;
+                    padding-right: 25px;
+                    margin-bottom: 20px;
+                  
+                      > div{
+                        position: relative;
+                         box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.55);
+                         .team-overlay-div{
+                            opacity: 0;
+                            position: absolute;
+                            background: rgba(0, 0, 0, 0.5);
+                            padding: 4px;
+                            bottom: 76px;
+                            width: 100%;
+                            -webkit-transition: .5s ease-in-out;
+	                        transition: .5s ease-in-out;
+                            .social-media-icon-bar{
+                                ul{
+                                    margin-bottom: 0;
+                                 padding-left: 0px;
+                                 list-style-type: none;
+                                    li{
+                                     width: 25px;
+                                     margin-right: 10px;
+                                     display: inline-block;
+                                     &:last-child{
+                                         margin-right: 0px; 
+                                     }
+                                     svg{
+                                         transition: transform .5s ease;
+                                         
+                                         .cls-1{
+                                             fill:none;
+                                             stroke:#fff;
+                                             stroke-miterlimit:
+                                             10;
+                                             stroke-width:2px;
+                                         }
+                                         .cls-2{
+                                             fill:white;
+                                         }
+                                         &:hover{
+                                             transform: scale(1.5);
+                                         }
+                                     }
+                                     
+                                    }
+                                }
+                             }
+                         }
+                         img{
+                            width: 100%;
+                        }
+                        .name-desgn-div{
+                            width: 100%;
+                            background: black;
+                            padding-bottom: 14px;
+                            .name{
+                                font-family: 'Roboto Bold';
+                                color: white;
+                                margin-bottom: 0;
+                                text-transform: uppercase;
+                                font-size: 19px;                       }
+                            .designation{
+                                font-family: 'Roboto Light';
+                                color: #4490c4;
+                                margin-bottom: 0;
+                                line-height: 1.1;
+                            }
+                        }
+                        &:hover{
+
+                            .team-overlay-div{
+                            opacity: 1;
+                           }
+
+                        }
+                      }
+                    
+            }
+        }  
+    }
+}
+
+
+.careers{
+    .careers-bg{
+        background-image: url('../assets/images/career-bg.png');
+        height: auto;
+        padding-bottom: 100px;
+        background-size: cover;
+        background-position: center;
+         .heading{
+             font-family: 'Roboto Black';
+             color: #4490c4;
+             text-transform: uppercase;
+             text-align: center;
+             font-size: 34px;
+             padding-top: 30px;
+         }
+         .career-inner{
+            width: 686px;
+            margin: 0 auto;
+             .main-txt{
+                font-family: 'Roboto Thin';
+                color: white;
+                text-align: left;
+                margin-top: 100px;
+                padding-bottom: 70px;
+                word-break: break-all;
+                line-height: 2;
+             }
+
+             .gradient-box {
+                margin: auto;
+                width: 180px;
+                padding: 16px 0px;
+                transition: transform .5s ease;
+                border-left: 2px solid #235c8e;
+                border-right: 2px solid #184b7c;
+                border-radius: 23px;
+                box-sizing: border-box;
+                background-position: 0 0, 0 100%;
+                background-repeat: no-repeat;
+                background-size: 100% 3px;
+                box-sizing: border-box;
+                cursor: pointer;
+                background-image: linear-gradient(to right, #012958 0%, #448fc3 91%), linear-gradient(to right, #256091 0%, #012958 100%);
+                    background-image: -webkit-linear-gradient(left, #012958 0%, #448fc3 91%), -webkit-linear-gradient(left, #256091 0%, #012958 100%);
+                    background-image: -moz-linear-gradient(left, #012958 0%, #448fc3 91%), -moz-linear-gradient(left, #256091 0%, #012958 100%);
+                    background-image: -o-linear-gradient(left, #012958 0%, #448fc3 91%), -o-linear-gradient(left, #256091 0%, #012958 100%);
+                 &:hover{
+                    transform: scale(1.5);
+               
+                 }
+                    p{
+                        font-family: 'Roboto Bold';
+                        font-size: 16px;
+                        margin-bottom: 0;
+                        color: white;
+                    }
+              }
+         }
+
+    }
+}
+
+.blogs{
+    .blogs-inner-bg{
+        padding-bottom: 60px;
+        .heading{
+            font-family: 'Roboto Black';
+             color: #4490c4;
+             text-transform: uppercase;
+             text-align: center;
+             font-size: 34px;
+             padding-top: 50px;
+                .slash{
+                    color: black;
+                }
+                .blogs{
+                    color: #ff6600;
+                }
+        }
+        .blogs-inner{
+                .blogs-slider{
+                    .single-box{
+                        width: 80%;
+                        margin: 0 auto;
+                        padding-bottom: 20px;
+                        padding-top:10px;
+                        padding-left: 15px;
+                        padding-right: 15px;
+                        margin-bottom: 30px;
+                        .bordered-div{
+                            border: 1px solid;
+                            padding: 5px;
+                            height: 280px;
+                            position: relative;
+                            > img{
+                                width: 100%;
+                            }
+                             
+                                  &:hover{
+                                    >  .blog-overlay-div{
+                                              opacity: 1;
+                                      }
+                                 }
+                            
+                            .blog-overlay-div{
+                                opacity: 0;
+                                background: rgba(0, 0, 0, 0.8);
+                                transition: opacity 0.6s ease-in;
+                                position: absolute;
+                                top: 5px;
+                                height: 270px;
+                                width: 96%;
+                                padding-top: 110px;
+                                .gradient-box {
+                                    margin: auto;
+                                    width: 120px;
+                                    padding: 10px 0px;
+                                    transition: transform .5s ease;
+                                    border-left: 2px solid #235c8e;
+                                    border-right: 2px solid #184b7c;
+                                    border-radius: 18px;
+                                    box-sizing: border-box;
+                                    background-position: 0 0, 0 100%;
+                                    background-repeat: no-repeat;
+                                    background-size: 100% 3px;
+                                    box-sizing: border-box;
+                                    cursor: pointer;
+                                    background-image: linear-gradient(to right, #012958 0%, #448fc3 91%), linear-gradient(to right, #256091 0%, #012958 100%);
+                                        background-image: -webkit-linear-gradient(left, #012958 0%, #448fc3 91%), -webkit-linear-gradient(left, #256091 0%, #012958 100%);
+                                        background-image: -moz-linear-gradient(left, #012958 0%, #448fc3 91%), -moz-linear-gradient(left, #256091 0%, #012958 100%);
+                                        background-image: -o-linear-gradient(left, #012958 0%, #448fc3 91%), -o-linear-gradient(left, #256091 0%, #012958 100%);
+                                     &:hover{
+                                        transform: scale(1.2);
+                                   
+                                     }
+                                        p{
+                                            font-family: 'Roboto Bold';
+                                            font-size: 16px;
+                                            margin-bottom: 0;
+                                            color: white;
+                                        }
+                                  }
+                            }
+                           
+                        }
+                        
+                    }
+
+                }
+                
+                .slick-slider{
+                    margin-top: 30px;
+                    .slick-dots{
+                        bottom: -6px;
+                        .slick-active{
+                            button:before{
+                                content: '•';
+                                color: #ff6600;
+                                opacity: 1;
+                                font-size: 20px;
+                                top: -2px;
+                            }
+                        }
+                        li {
+                            margin: 0;
+                            button:before{
+                                content: '°';
+                                color: #ff6600;
+                                opacity: 1;
+                                font-size: 45px;
+                            }
+                        }
+                    }
+
+                }  
+        }
+    }
+}
+
+.contact-us{
+    .contact-us-inner-bg{
+            background-image: url('../assets/images/contact-us-bg.png');
+            padding-bottom: 20px;
+            background-size: cover;
+        .heading{
+            font-family: 'Roboto Black';
+            color: #4490c4;
+            text-transform: uppercase;
+            text-align: center;
+            font-size: 34px;
+            padding-top: 50px;
+            margin-bottom: 50px;
+        }
+        .contact-us-inner{
+            .main-div-lefty-righty{
+                margin-bottom: 35px;
+                width: 100%;
+                position: relative;
+                .lefty{
+                float: left;
+                margin-right: 20px;
+                svg{
+                    width: 20px;
+                    fill: white;
+                }
+                .address-svg{
+                    margin-bottom: -100px;
+                }
+                }
+                .righty{
+                    float: left;
+                    .address{
+                        font-family: 'Roboto Light';
+                        color: white;
+                        text-align: left;
+                    }
+                }
+            }
+            ul{
+                padding-left: 30px;
+                list-style-type: none;
+                text-align: left;
+                li{
+                    display: inline-block;
+                    .clutch-logo{
+                        width: 55px;
+                    }
+                    .blockchain-usa{
+                        width: 65px;
+                    }
+                   &:first-child{
+                    margin-right: 40px;
+                   }
+                }
+            }
+
+            .social-media-icon-bar{
+               ul{
+                padding-left: 22px;
+                margin-top: 140px;
+                list-style-type: none;
+                   li{
+                    width: 33px;
+                    margin-right: 10px;
+                    display: inline-block;
+                    &:last-child{
+                        margin-right: 0px; 
+                    }
+                    svg{
+                        transition: transform .5s ease;
+                        
+                        .cls-1{
+                            fill:none;
+                            stroke:#fff;
+                            stroke-miterlimit:
+                            10;
+                            stroke-width:2px;
+                        }
+                        .cls-2{
+                            fill:white;
+                        }
+                        &:hover{
+                            transform: scale(1.5);
+                        }
+                    }
+                    
+                   }
+               }
+            }
+            .form-div-outer{
+                margin-left: 60px;
+            }
+            .u-can-contact-txt{
+                font-family: 'Roboto Regular';
+                color: white;
+                text-align: left;
+            }
+            .form-div{
+                .contact-us-input{
+                    background-color: transparent;
+                    width: 100%;
+                    margin-bottom: 40px;
+                    border: 1px solid white;
+                    border-radius: 15px;
+                    color: white;
+                    padding: 4px 15px;
+                    font-family: 'Roboto Light';
+                }
+
+                .gradient-box {
+                    text-transform: uppercase;
+                    width: 110px;
+                    padding: 8px 0px;
+                    transition: transform .5s ease;
+                    border-left: 2px solid #235c8e;
+                    border-right: 2px solid #184b7c;
+                    border-radius: 30px;
+                    box-sizing: border-box;
+                    background-position: 0 0, 0 100%;
+                    background-repeat: no-repeat;
+                    background-size: 100% 3px;
+                    box-sizing: border-box;
+                    cursor: pointer;
+                    background-image: linear-gradient(to right, #012958 0%, #448fc3 91%), linear-gradient(to right, #256091 0%, #012958 100%);
+                        background-image: -webkit-linear-gradient(left, #012958 0%, #448fc3 91%), -webkit-linear-gradient(left, #256091 0%, #012958 100%);
+                        background-image: -moz-linear-gradient(left, #012958 0%, #448fc3 91%), -moz-linear-gradient(left, #256091 0%, #012958 100%);
+                        background-image: -o-linear-gradient(left, #012958 0%, #448fc3 91%), -o-linear-gradient(left, #256091 0%, #012958 100%);
+                     &:hover{
+                        transform: scale(1.5);
+                     }
+                        p{
+                            font-family: 'Roboto Light';
+                            font-size: 17px;
+                            margin-bottom: 0;
+                            color: white;
+                        }
+                  }
+            }
+        }
+    }
+}
+
+.bottom-sec{
+    .bottom-sec-inner-bg{
+        background-color: black;
+        padding: 20px;
+        .privacy-policy-p{
+            font-family: 'Roboto Regular';
+            color: white;
+            text-align: left;
+            margin-bottom: 0;
+        }
+        svg{
+            width: 35px;
+            height: 20px;
+        }
+    }
+}
+.width-adjustment{
+    width: 90%;
+    margin: 0 auto;
+}

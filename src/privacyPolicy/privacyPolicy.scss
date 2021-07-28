@@ -1,0 +1,167 @@
+.privacy-policy-main{
+    .privacy-inner{
+        width: 95%;
+        margin: 0 auto;
+        padding-top: 40px;
+        .privacy-p{
+            font-family: 'Roboto Medium';
+            color: #4490c4;
+            text-transform: uppercase;
+            margin-bottom: 0;
+            text-align: left;
+            font-size: 34px;
+            position: relative;
+            > span {
+                width: 130px;
+                height: 3px;
+                background: #4490c4;
+                position: absolute;
+                bottom: -5px;
+                left: 2px;
+            }
+        }
+        .first-para-div{
+            p{
+                font-family: 'Roboto Light';
+                color: black;
+                text-align: left;
+                font-size: 15px;
+                &:first-child{
+                    margin-top: 50px;
+                }
+            }
+        }
+        .para-with-heading{
+            p{
+                &:first-child{
+                    margin-top: 30px;
+                    font-family: 'Roboto Bold';
+                    color: black;
+                    text-align: left;
+                    font-size: 25px;
+                    margin-bottom: 5px;
+                }
+             
+                    font-family: 'Roboto Light';
+                    color: black;
+                    text-align: left;
+                    font-size: 15px;
+                    line-height: 1.8;
+                    
+            }
+            ul{
+                list-style-type: circle;
+                padding-left: 18px;
+                li{
+                    font-family: 'Roboto Light';
+                    color: black;
+                    text-align: left;
+                    font-size: 15px;
+                    line-height: 1.6;
+                    margin-bottom: 8px;
+                }
+            }
+        }
+    }
+    .footer{
+        background-color: #000c2d;
+        padding: 25px;
+        .footer-inner{
+            width: 95%;
+            margin: 0 auto;
+            .footer-col{
+                position: relative;
+                .heading{
+                    font-family: 'Roboto Bold';
+                    color: white;
+                    text-align: left;
+                    position: relative;
+                    font-size: 18px;
+                     span{
+                        width: 180px;
+                        height: 2px;
+                        background: white;
+                        position: absolute;
+                        bottom: -3px;
+                        left: 2px;
+                     }
+                }
+                .quick-links-ul{
+                    padding-left: 0;
+                    list-style-type: none;
+                    li{
+                        font-family: 'Roboto Regular';
+                        text-align: left;
+                        color: white;
+                        margin-bottom: 10px;
+                        font-size: 13px;
+                    }
+                }
+                .social-media-icon-bar{
+                    ul{
+                        position: absolute;
+                     padding-left: 0px;
+                     list-style-type: none;
+                        li{
+                         width: 26px;
+                         margin-right: 7px;
+                         display: inline-block;
+                         &:last-child{
+                             margin-right: 0px; 
+                         }
+                         svg{
+                             transition: transform .5s ease;
+                             
+                             .cls-1{
+                                 fill:none;
+                                 stroke:#fff;
+                                 stroke-miterlimit:
+                                 10;
+                                 stroke-width:2px;
+                             }
+                             .cls-2{
+                                 fill:white;
+                             }
+                             &:hover{
+                                 transform: scale(1.5);
+                             }
+                         }
+                         
+                        }
+                    }
+                 }
+                 .main-div-lefty-righty{
+                    width: 100%;
+                    position: relative;
+                    .lefty{
+                    float: left;
+                    margin-right: 20px;
+                    svg{
+                        width: 15px;
+                        fill: white;
+                    }
+                    .address-svg{
+                        margin-bottom: -70px;
+                    }
+                    .phn-svg{
+                        margin-bottom: 8px;
+                    }
+                    .mail-svg{
+                        width: 20px;
+                        margin-top: 10px;
+                    }
+                    }
+                    .righty{
+                        float: left;
+                        .address{
+                            font-family: 'Roboto Light';
+                            color: white;
+                            text-align: left;
+                            font-size: 13px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
