@@ -114,7 +114,7 @@ scrollToTop= () => {
                 </p>
                 <div>
                   <p className='about-us-para'>
-                  Ideofuzion (Pvt.) Ltd. is a leading Blockchain and technological Solutions Provider. We have a core focus in Blockchain Development, IT Solutions development, Software development, Mobile Applications and emerging technologies AI and IoT. Experts in Smart Contract Development, Hyperledger Fabric, ICO development, ERC-20 tokens, DApps, Alt Coins, Stellar and Tron we have a solution for your idea whether it is on iOS, Android, Web App or Desktop applications. Started in 2013, Ideofuzion (Pvt.) Ltd. has more than 5 years experience in developing Blockchain Technologies serving clients in the Supply Chain, Fintech, Health Care and Manufacturing sectors. A Blockchain progressive organization we are always on the lookout for exciting projects to work with as is testified by our 50+ successful Blockchain Projects serving a global clientele spread across 6 continents.
+                  Riverline Technologies - FZE is a leading software and technological solutions provider. We have a core focus in IT solutions development, software development, mobile applications, and emerging technologies like AI, blockchain and IoT. Experts in social media, fintech, Hyperledger Fabric and DApps we have a solution for your idea whether it is on iOS, Android, Web App or Desktop applications. We serve clients in the Supply Chain, Fintech, Health Care and Manufacturing sectors. A progressive organization, we are always on the lookout for exciting projects to work with as is testified by our 50+ successful projects served by our experienced team.
                   </p>
                 </div>
                 <div className='factors-of-sucess-div'>
@@ -150,20 +150,14 @@ scrollToTop= () => {
           </div>
        </section>
 
-       <section className='explore-ideo'>
-        <div className='video-div'>
-        <iframe src="https://www.youtube.com/embed/lbpwjUFXKbk"></iframe>
-
- 
-       </div>
-      </section>
+       
 
 
       <section className='why-ideo-sec'>
         <div className='container'>
           <div className='width-adjustment why-ideo-slider-div'>
           <p className='heading'>
-          why ideofuzion
+          why riverline
           </p>
           <Slider {...settings}>
         <div className='why-ideo-slider'>
@@ -204,45 +198,7 @@ scrollToTop= () => {
           </p>
           </div>
         </div>
-        <div className='why-ideo-slider'>
-          <div className='single-box'>
-          <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.18 130.18"><defs><style></style></defs><title>ethic</title><circle class="cls-1" cx="65.09" cy="65.09" r="65.09"/><circle id="Ellipse_2_copy" data-name="Ellipse 2 copy" class="cls-2" cx="65.09" cy="65.09" r="53.59"/><path class="cls-3" d="M48.58,42.17c.74-2.24,1.39-4,3.72-4.82.71-.24.87-2.08,1.26-3.11,2.12-.52,4.44-1,6.71-1.66,9.19-2.6,17.12,2,19.31,11.32a4,4,0,0,1,.16.82c.1,4.06.38,8.13.2,12.17a6.26,6.26,0,0,1-3.74,5.53c-.43.2-.69.79-1,1.22-1.66,2.18-3.07,4.62-5,6.48-4.17,4-9.24,3.45-12.9-1-.36-.43-.65-.92-1-1.36-1.38-1.76-2.11-3.92-4.46-5-2-1-3.22-7.14-2.48-9.41a7,7,0,0,0,.35-2c0-3,0-6,0-9.08Zm7.66,4.15c-.47,1.77-.58,3.34-1.28,4.58-1.4,2.49-1.18,5-.68,7.57a8.74,8.74,0,0,1,.17,1.25,13.86,13.86,0,0,0,4.12,9c3.87,4.12,8.29,3.86,12-.42s4.85-8.92,5-14.26c.1-3.44.31-3.35-3.08-4.13a29.33,29.33,0,0,1-4.31-1.72L68,50.3l-1.84-1.51c0,.5,0,.87,0,.82Z" transform="translate(1.21 -1.04)"/><path class="cls-3" d="M59.14,100.4c-7.57-.37-15.52.06-22.91-3.6a2.51,2.51,0,0,1-1.62-3c.64-5.1,1.19-10.21,1.82-15.32.28-2.3,1.49-4.17,3.74-4.68C45,72.75,49.8,72,54.3,71.18Z" transform="translate(1.21 -1.04)"/><path class="cls-3" d="M70.89,100.34c1.69-9.41,3.37-18.82,5.1-28.48a41,41,0,0,1,12.54,2.45c1.89.71,2.72,2.5,2.92,4.57.46,4.63,1,9.25,1.56,13.86.41,3.05.37,3.39-2.44,4.69C84.29,100.31,77.58,100.29,70.89,100.34Z" transform="translate(1.21 -1.04)"/><path class="cls-3" d="M68.13,100.21H61.05c.29-4.11.56-8.1.86-12.09.13-1.83.33-3.65.46-5.48,0-.41.08-1-.15-1.21-1.7-1.63-.63-3.37-.35-5.11s1-2.31,2.82-2.23c1.44.07,2.2.38,2.46,1.86.34,1.88,1,3.54-.12,5.6-.71,1.26-.1,3.3,0,5C67.37,91,67.75,95.52,68.13,100.21Z" transform="translate(1.21 -1.04)"/></svg>
-
-          <p className='why-ideo-bold-txt'>
-            innovation
-          </p>
-          <p className='why-ideo-light-txt'>
-          Your Ideas, Our Solution.<br/>
-          Expert developers in innovative Blockchain products and Solutions for your business needs.
-          </p>
-          </div>
-        </div>
-        <div className='why-ideo-slider'>
-          <div className='single-box'>
-          <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.18 130.18"><defs><style></style></defs><title>ethic</title><circle class="cls-1" cx="65.09" cy="65.09" r="65.09"/><circle id="Ellipse_2_copy" data-name="Ellipse 2 copy" class="cls-2" cx="65.09" cy="65.09" r="53.59"/><path class="cls-3" d="M48.58,42.17c.74-2.24,1.39-4,3.72-4.82.71-.24.87-2.08,1.26-3.11,2.12-.52,4.44-1,6.71-1.66,9.19-2.6,17.12,2,19.31,11.32a4,4,0,0,1,.16.82c.1,4.06.38,8.13.2,12.17a6.26,6.26,0,0,1-3.74,5.53c-.43.2-.69.79-1,1.22-1.66,2.18-3.07,4.62-5,6.48-4.17,4-9.24,3.45-12.9-1-.36-.43-.65-.92-1-1.36-1.38-1.76-2.11-3.92-4.46-5-2-1-3.22-7.14-2.48-9.41a7,7,0,0,0,.35-2c0-3,0-6,0-9.08Zm7.66,4.15c-.47,1.77-.58,3.34-1.28,4.58-1.4,2.49-1.18,5-.68,7.57a8.74,8.74,0,0,1,.17,1.25,13.86,13.86,0,0,0,4.12,9c3.87,4.12,8.29,3.86,12-.42s4.85-8.92,5-14.26c.1-3.44.31-3.35-3.08-4.13a29.33,29.33,0,0,1-4.31-1.72L68,50.3l-1.84-1.51c0,.5,0,.87,0,.82Z" transform="translate(1.21 -1.04)"/><path class="cls-3" d="M59.14,100.4c-7.57-.37-15.52.06-22.91-3.6a2.51,2.51,0,0,1-1.62-3c.64-5.1,1.19-10.21,1.82-15.32.28-2.3,1.49-4.17,3.74-4.68C45,72.75,49.8,72,54.3,71.18Z" transform="translate(1.21 -1.04)"/><path class="cls-3" d="M70.89,100.34c1.69-9.41,3.37-18.82,5.1-28.48a41,41,0,0,1,12.54,2.45c1.89.71,2.72,2.5,2.92,4.57.46,4.63,1,9.25,1.56,13.86.41,3.05.37,3.39-2.44,4.69C84.29,100.31,77.58,100.29,70.89,100.34Z" transform="translate(1.21 -1.04)"/><path class="cls-3" d="M68.13,100.21H61.05c.29-4.11.56-8.1.86-12.09.13-1.83.33-3.65.46-5.48,0-.41.08-1-.15-1.21-1.7-1.63-.63-3.37-.35-5.11s1-2.31,2.82-2.23c1.44.07,2.2.38,2.46,1.86.34,1.88,1,3.54-.12,5.6-.71,1.26-.1,3.3,0,5C67.37,91,67.75,95.52,68.13,100.21Z" transform="translate(1.21 -1.04)"/></svg>
-
-          <p className='why-ideo-bold-txt'>
-            innovation
-          </p>
-          <p className='why-ideo-light-txt'>
-          Your Ideas, Our Solution.<br/>
-          Expert developers in innovative Blockchain products and Solutions for your business needs.
-          </p>
-          </div>
-        </div>
-        <div className='why-ideo-slider'>
-          <div className='single-box'>
-          <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.18 130.18"><defs><style></style></defs><title>ethic</title><circle class="cls-1" cx="65.09" cy="65.09" r="65.09"/><circle id="Ellipse_2_copy" data-name="Ellipse 2 copy" class="cls-2" cx="65.09" cy="65.09" r="53.59"/><path class="cls-3" d="M48.58,42.17c.74-2.24,1.39-4,3.72-4.82.71-.24.87-2.08,1.26-3.11,2.12-.52,4.44-1,6.71-1.66,9.19-2.6,17.12,2,19.31,11.32a4,4,0,0,1,.16.82c.1,4.06.38,8.13.2,12.17a6.26,6.26,0,0,1-3.74,5.53c-.43.2-.69.79-1,1.22-1.66,2.18-3.07,4.62-5,6.48-4.17,4-9.24,3.45-12.9-1-.36-.43-.65-.92-1-1.36-1.38-1.76-2.11-3.92-4.46-5-2-1-3.22-7.14-2.48-9.41a7,7,0,0,0,.35-2c0-3,0-6,0-9.08Zm7.66,4.15c-.47,1.77-.58,3.34-1.28,4.58-1.4,2.49-1.18,5-.68,7.57a8.74,8.74,0,0,1,.17,1.25,13.86,13.86,0,0,0,4.12,9c3.87,4.12,8.29,3.86,12-.42s4.85-8.92,5-14.26c.1-3.44.31-3.35-3.08-4.13a29.33,29.33,0,0,1-4.31-1.72L68,50.3l-1.84-1.51c0,.5,0,.87,0,.82Z" transform="translate(1.21 -1.04)"/><path class="cls-3" d="M59.14,100.4c-7.57-.37-15.52.06-22.91-3.6a2.51,2.51,0,0,1-1.62-3c.64-5.1,1.19-10.21,1.82-15.32.28-2.3,1.49-4.17,3.74-4.68C45,72.75,49.8,72,54.3,71.18Z" transform="translate(1.21 -1.04)"/><path class="cls-3" d="M70.89,100.34c1.69-9.41,3.37-18.82,5.1-28.48a41,41,0,0,1,12.54,2.45c1.89.71,2.72,2.5,2.92,4.57.46,4.63,1,9.25,1.56,13.86.41,3.05.37,3.39-2.44,4.69C84.29,100.31,77.58,100.29,70.89,100.34Z" transform="translate(1.21 -1.04)"/><path class="cls-3" d="M68.13,100.21H61.05c.29-4.11.56-8.1.86-12.09.13-1.83.33-3.65.46-5.48,0-.41.08-1-.15-1.21-1.7-1.63-.63-3.37-.35-5.11s1-2.31,2.82-2.23c1.44.07,2.2.38,2.46,1.86.34,1.88,1,3.54-.12,5.6-.71,1.26-.1,3.3,0,5C67.37,91,67.75,95.52,68.13,100.21Z" transform="translate(1.21 -1.04)"/></svg>
-
-          <p className='why-ideo-bold-txt'>
-            innovation
-          </p>
-          <p className='why-ideo-light-txt'>
-          Your Ideas, Our Solution.<br/>
-          Expert developers in innovative Blockchain products and Solutions for your business needs.
-          </p>
-          </div>
-        </div>
+        
       </Slider>
           </div>
         
@@ -267,13 +223,13 @@ scrollToTop= () => {
                                           <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47.4 47.31"><title>icon_blockchain_development</title><path d="M21.69,48.67c-.87,2.16-2.63,3-4.45,2.26s-2.42-2.69-1.43-4.81l-1.28-1.23c-2-2-3.94-3.93-5.91-5.91-.22-.21-.38-.32-.72-.16a3.22,3.22,0,1,1-2.46-5.94l.31-.13v-.58q0-10.67,0-21.32c0-.4,0-.64-.49-.83A3.15,3.15,0,0,1,3.45,6.69a3.23,3.23,0,0,1,6.13-.9c.08.18.15.35.23.55h22a.68.68,0,0,0,.77-.48,3.2,3.2,0,1,1,5.88,2.55.62.62,0,0,0,.17.84q3.4,3.33,6.78,6.68a.53.53,0,0,0,.72.13,3.21,3.21,0,1,1,2.68,5.84.6.6,0,0,0-.45.65c0,7.28,0,14.56,0,21.84,0,.27,0,.46.34.6a3.2,3.2,0,0,1,2,3.46,3.23,3.23,0,0,1-6.25.52c0-.1-.07-.2-.11-.31Zm23.5-4.47c.17.23.35.45.51.68s.48.18.69,0a.64.64,0,0,0,.29-.45q0-11,0-22a.44.44,0,0,0-.35-.49,3,3,0,0,1-1.84-1.78.43.43,0,0,0-.5-.33c-.74,0-1.48,0-2.22,0H22.12a.6.6,0,0,0-.7.43,2.88,2.88,0,0,1-1.65,1.63.51.51,0,0,0-.38.58q0,11,0,21.94a.48.48,0,0,0,.36.54,2.94,2.94,0,0,1,1.66,1.62A.51.51,0,0,0,22,47H44a.57.57,0,0,0,.58-.38c.17-.32,0-.46-.2-.62s-.37-.27-.58-.43ZM7.47,10.29a1.62,1.62,0,0,0,0,.18q0,11,0,21.94a.5.5,0,0,0,.37.54,3.18,3.18,0,0,1,1.71,4.18.53.53,0,0,0,.15.71c2.28,2.25,4.56,4.51,6.81,6.8a.79.79,0,0,0,1.2.15V22.14c-2.26-1-2.85-2.44-2-4.92a5.23,5.23,0,0,1-.41-.34L8.94,10.54C8.32,9.92,8.32,9.92,7.47,10.29Zm36.81,7.9c.39-.48.24-.78-.12-1.13-2.3-2.23-4.58-4.49-6.86-6.75a.56.56,0,0,0-.68-.16,3.15,3.15,0,0,1-4-1.73A.53.53,0,0,0,32,8Q21.09,8,10.18,8c-.4,0-.48.22-.63.49s0,.44.19.62q3.36,3.34,6.73,6.72a.61.61,0,0,0,.8.17,3.14,3.14,0,0,1,4.17,1.69.69.69,0,0,0,.78.49H44.28ZM8.5,7.12A1.85,1.85,0,1,0,6.67,9,1.86,1.86,0,0,0,8.5,7.12Zm27-1.84a1.85,1.85,0,1,0,1.84,1.87A1.87,1.87,0,0,0,35.54,5.28ZM18.48,20.83A1.85,1.85,0,1,0,16.65,19,1.86,1.86,0,0,0,18.48,20.83Zm29,0a1.85,1.85,0,0,0,0-3.7,1.85,1.85,0,1,0,0,3.7ZM6.56,37.76a1.85,1.85,0,1,0,0-3.7,1.85,1.85,0,0,0,0,3.7ZM20.35,48a1.85,1.85,0,1,0-1.84,1.87A1.86,1.86,0,0,0,20.35,48Zm29,0a1.85,1.85,0,0,0-3.7,0,1.87,1.87,0,0,0,1.84,1.87A1.85,1.85,0,0,0,49.33,48Z" transform="translate(-3.32 -3.9)"/><path d="M39.1,38.24l-1.31,1.21L37,38.73a3.4,3.4,0,0,1-2.34.31,3,3,0,0,1-2.12-1.68.77.77,0,0,0-.95-.56,1.33,1.33,0,0,1-.34,0V35.13h1a3.4,3.4,0,0,1,2.35-2.37v-1h1.63s.05.06.05.08a1.12,1.12,0,0,0,.76,1.32,3.19,3.19,0,0,1,1.12,4.45Zm-3.69-4.18a1.85,1.85,0,0,0,0,3.7,1.85,1.85,0,1,0,0-3.7Z" transform="translate(-3.32 -3.9)"/><path d="M41.32,40.79l-1.08,1L39.17,40.6l1.1-1Z" transform="translate(-3.32 -3.9)"/><path d="M42.62,44.22l-1.14-1.15,1.23-1.14,1,1.17Z" transform="translate(-3.32 -3.9)"/><path d="M36.3,21.61v1.63H34.67V21.61Z" transform="translate(-3.32 -3.9)"/><path d="M34.66,26.62V25h1.63v1.62Z" transform="translate(-3.32 -3.9)"/><path d="M36.29,30H34.66V28.38h1.63Z" transform="translate(-3.32 -3.9)"/><path d="M22.75,36.78H21.13V35.15h1.62Z" transform="translate(-3.32 -3.9)"/><path d="M24.52,35.13h1.62v1.65H24.52Z" transform="translate(-3.32 -3.9)"/><path d="M27.88,36.78V35.15h1.64v1.63Z" transform="translate(-3.32 -3.9)"/><path d="M11,35.13H12.6v1.65H11Z" transform="translate(-3.32 -3.9)"/><path d="M14.36,35.14H16v1.63H14.36Z" transform="translate(-3.32 -3.9)"/><path d="M34.66,11.44h1.63v1.64H34.66Z" transform="translate(-3.32 -3.9)"/><path d="M34.67,14.83H36.3v1.63H34.67Z" transform="translate(-3.32 -3.9)"/></svg>
                                         </div>
                                         <p className='blue-div-p'>
-                                          Blockchain Development
+                                          Mobile App Development
                                         </p>
                                 </div>
 
                               <div  className='overlay-div blockchain-dev'>
                               <p>
-                              Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                              
                               </p>
                               </div>
                         </div>
@@ -285,12 +241,12 @@ scrollToTop= () => {
                           <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 469.33 469.34"><title>wallet</title><path d="M469.33,258V192a42.58,42.58,0,0,0-39.27-42.32l-61.26-107a42.19,42.19,0,0,0-57.91-15.6l-210,122.26H64A42.71,42.71,0,0,0,21.33,192V448A42.72,42.72,0,0,0,64,490.67H426.67A42.71,42.71,0,0,0,469.33,448V382a32,32,0,0,0,21.34-30V288A32,32,0,0,0,469.33,258ZM227.79,149.34,360.9,71.84l10.53,18.39L269.9,149.34ZM382,108.74l23.24,40.6h-93Zm-60.4-63.23a20.62,20.62,0,0,1,15.84-2.13,20.92,20.92,0,0,1,12.81,9.9l0,0-164.91,96H143.28Zm105,423.83H64A21.36,21.36,0,0,1,42.67,448V192A21.36,21.36,0,0,1,64,170.67H426.67A21.36,21.36,0,0,1,448,192v64H384a64,64,0,0,0,0,128h64v64A21.36,21.36,0,0,1,426.67,469.34ZM469.33,352a10.67,10.67,0,0,1-10.66,10.67H384a42.67,42.67,0,1,1,0-85.33h74.67A10.67,10.67,0,0,1,469.33,288Z" transform="translate(-21.33 -21.33)"/><path d="M384,298.67A21.34,21.34,0,1,0,405.33,320,21.36,21.36,0,0,0,384,298.67Z" transform="translate(-21.33 -21.33)"/></svg>
                           </div>
                           <p className='blue-div-p'>
-                            Cryptocurrency Wallet Development
+                            DApp Development
                           </p>
                         </div>
                         <div  className='overlay-div blockchain-dev'>
                         <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        
                         </p>
                         </div>
                         </div> 
@@ -307,7 +263,7 @@ scrollToTop= () => {
                       </div>
                       <div  className='overlay-div hyperledger'>
                         <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        
                         </p>
                         </div>
                       </div>
@@ -328,7 +284,7 @@ scrollToTop= () => {
                          
                           <div  className='overlay-div smrt-contract-dev'>
                               <p>
-                              Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                              
                               </p>
                         </div>
                         </div>
@@ -345,13 +301,13 @@ scrollToTop= () => {
                                 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 853.38 853.42"><title>Smart Contract Development</title><path d="M240.62-24V-205.82c0-6.87,0-6.87-7.08-6.87h-136c-12.47,0-16.9-4.4-16.9-16.81,0-45.83-.07-91.66.11-137.49,0-4.72-1.44-5.76-5.91-5.76q-215.47.17-431,.1c-11.94,0-16.53,4.67-16.53,16.77q0,383.24,0,766.46c0,12,4.59,16.58,16.65,16.58H224c12.12,0,16.65-4.49,16.65-16.56q0-80,.11-160a22.32,22.32,0,0,1,2.53-9.87c6.86-13.14,14.08-26.09,21.19-39.1a7,7,0,0,1,3.12-3.14v4.7q0,104,0,208c0,26.05-16.9,42.78-42.92,42.79H-356.84c-25.82,0-42.53-16.69-42.54-42.49q0-385,0-770c0-23.42,17.26-40.88,40.63-40.88q225.24,0,450.48-.08a18.19,18.19,0,0,1,13.76,5.72q78.21,78.39,156.6,156.61a17.81,17.81,0,0,1,5.52,13.38q-.08,74.74-.05,149.5a9.89,9.89,0,0,1-.62,4.38c-8.24,15.4-16.6,30.73-24.92,46.09ZM220.05-239.48l-1,.6L107.68-350.7a9.47,9.47,0,0,0-.16,1.63c0,35.16,0,70.32-.1,105.47,0,4.3,2.12,4.34,5.27,4.33q51.74-.09,103.48,0C217.46-239.31,218.76-239.42,220.05-239.48Z" transform="translate(399.39 399.44)"/><path d="M-9.16,280c-3.86,1.44-6.56,1.9-8.61,3.31q-21.62,14.81-43,29.95c-14.53,10.26-28.75,21-43.6,30.78-5.12,3.36-11.59,5.11-17.7,6.42-9.53,2.05-16.67-3-19.11-12.39s-1-18.44,3-26.8a301,301,0,0,1,16.61-30.12c7.85-12.57,16.61-24.56,24.67-37,2.43-3.75,3.86-8.15,5.75-12.25l-1.31-1.26c-3.38,1.13-6.85,2-10.11,3.44-26.83,11.5-50.91,27.41-73.94,45.24-20.4,15.79-41.33,30.93-62.58,45.56-10.51,7.23-21.9,13.45-34.93,15.46a38.5,38.5,0,0,1-6,.54c-17.53,0-26.88-12.08-22-28.9,3.83-13.27,12.16-24,21.08-34.19,15.46-17.58,33.74-30.7,57.59-34.22,3.46-.52,8.37-2.31,9.53,2.2.66,2.53-1.94,7.06-4.41,9-4.06,3.13-9,6-13.93,7-20.41,4.08-45.06,27.23-48.25,46.21a24,24,0,0,0-.41,3.47c-.19,10,4.68,13.89,14.23,11.1,12.25-3.57,22.18-11.36,32.31-18.62,26.94-19.31,53.37-39.38,80.74-58.06,15.9-10.85,33-20.06,50-29.08,6.27-3.32,13.85-5,21-5.65,11.7-1,17.6,6.34,12.94,17-5.16,11.79-12.09,22.91-19,33.8-10.61,16.59-21.27,33.08-27.83,51.8a47.24,47.24,0,0,0-2,8.22c-1.11,7.08,2.13,10.48,9.09,8.65,5.06-1.34,10.32-3.32,14.46-6.4C-86.23,317.7-78,310.57-70,303.33c15.5-14,31.37-27.51,50.15-36.9a65.59,65.59,0,0,1,20.3-6.27c8.74-1.18,14.17,5.14,13,14a73.39,73.39,0,0,1-3.55,13.48c-5,14.62.47,26.71,15.52,29.9,10.74,2.28,22.38,3.45,33.13,1.85,22-3.27,43.7-8.68,65.46-13.5,1.3-.28,2.6-3,3-4.75,4.59-22.51,8.48-45.16,13.6-67.54,5.65-24.72,17-47.15,29.24-69.27C197.12,114.73,224,64.86,251,15.11c.62-1.15,1.34-2.24,2.31-3.84l64.82,35.19a26.94,26.94,0,0,1-1.25,3.28q-45.56,83.88-91.18,167.71c-13.52,24.74-32.72,44.9-53.32,63.74-11.92,10.89-24.56,21-36.85,31.48a62.41,62.41,0,0,1-21.61,12.05C88.2,333,62.4,341,35,340.73c-12.82-.11-25.22-2.3-36.09-9.85-11.56-8-15.21-17.27-12.23-31.1C-12,293.67-10.75,287.54-9.16,280Z" transform="translate(399.39 399.44)"/><path d="M416.07-132.76C387.83-80.79,360.2-30,332.42,21.17L267.09-14.31c5.18-9.58,10.13-18.78,15.12-28q49-90.22,98-180.45c5.9-10.87,12.87-13.22,23.86-8,.72.35,1.49.61,2.74,1.11C412-239,417-248.37,422.12-257.66c3.72-6.73,10.38-9.75,17.17-8,9.58,2.53,14,12.83,9.17,21.92-5,9.42-10.15,18.73-15.48,28.54,2.56,1.46,5,2.85,7.39,4.21,8.32,4.66,10.92,12.82,6.56,21.23-3.68,7.09-7.43,14.16-11.5,21-1.83,3.11-1.77,5.36.09,8.55,11.76,20.21,18.91,41.81,18.46,65.51a80,80,0,0,1-9.49,36.92q-35,64.61-70.08,129.1c-2.31,4.26-5.07,7.82-9.88,9.33a14.86,14.86,0,0,1-15.85-4.59c-4.33-5.37-4.71-11.27-1.49-17.29,6.94-12.91,14-25.76,21-38.64,15.51-28.53,30.48-57.38,46.71-85.5C427.68-87.44,425.57-109.11,416.07-132.76Z" transform="translate(399.39 399.44)"/><path d="M-66-158.92q105.47,0,210.93.14a20.67,20.67,0,0,1,11.09,3.3c4.57,3.17,5.87,8.37,4.12,13.86s-5.61,8.54-11.2,9.41a33.29,33.29,0,0,1-5,.11H-275.93a43.83,43.83,0,0,1-5-.1,13.53,13.53,0,0,1-11.87-13.32,13.41,13.41,0,0,1,11.86-13.29,47.82,47.82,0,0,1,5.49-.1Z" transform="translate(399.39 399.44)"/><path d="M-66-79H143c1.67,0,3.34-.07,5,0A13.46,13.46,0,0,1,160.78-66a13.39,13.39,0,0,1-11.42,13.65,32.26,32.26,0,0,1-5.48.28Q-66-52.06-276-52.16a24.64,24.64,0,0,1-10.94-2.5c-4.83-2.5-6.76-8.63-5.49-13.89a13.31,13.31,0,0,1,11.53-10.3,50.2,50.2,0,0,1,5.49-.1Z" transform="translate(399.39 399.44)"/><path d="M-66,1.07H145.41c10.17,0,17,7.11,15.17,15.83a13.58,13.58,0,0,1-12.12,10.91c-1.82.17-3.66.08-5.5.08H-276.92c-9.71,0-15.84-5.21-15.88-13.41S-286.63,1.07-277,1.07Z" transform="translate(399.39 399.44)"/><path d="M-142.39,81H-7.9c8.2,0,13.57,3.83,15,10.5A13.37,13.37,0,0,1-4,107.71a34.46,34.46,0,0,1-5.48.22H-276a37.66,37.66,0,0,1-5-.17A13.48,13.48,0,0,1-292.8,94.41a13.46,13.46,0,0,1,11.93-13.25,43.67,43.67,0,0,1,5.49-.12Z" transform="translate(399.39 399.44)"/><path d="M-145.89-239q65.71,0,131.43,0c9.17,0,15.24,5.49,15.19,13.56A13.34,13.34,0,0,1-10.75-212.3a31.78,31.78,0,0,1-5,.24H-276.09c-.83,0-1.66,0-2.5,0-8.39-.3-14.31-6-14.21-13.61s6-13.25,14.49-13.28c21.15,0,42.31,0,63.46,0Z" transform="translate(399.39 399.44)"/></svg>
                               </div>
                               <p className='blue-div-p'>
-                                Smart Contract Development
+                                Game Development
                               </p>
                          </div>
                          
                          <div  className='overlay-div blockchain-dev'>
                               <p>
-                              Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                              
                               </p>
                         </div>
                         </div>
@@ -365,11 +321,7 @@ scrollToTop= () => {
                             Security, Auditing and Consultation
                           </p>
                         </div>
-                          <div  className='overlay-div blockchain-dev'>
-                              <p>
-                              Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                              </p>
-                        </div>
+                          
                         </div>
                     </div>
                     </div>
@@ -389,7 +341,7 @@ scrollToTop= () => {
 
                           <div  className='overlay-div smrt-contract-dev'>
                               <p>
-                              Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                              
                               </p>
                         </div>
                         </div>
@@ -408,7 +360,7 @@ scrollToTop= () => {
                         </div>
                         <div  className='overlay-div smrt-contract-dev'>
                               <p>
-                              Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                              
                               </p>
                         </div>
                     </div>
@@ -424,51 +376,7 @@ scrollToTop= () => {
       </section>
     
     
-      <section className='projects' id='projects'>
-        <div  className='projects-bg'>
-        <div className='container'>
-            <div className='width-adjustment'>
-                  <p className='heading'>
-                      Projects
-                  </p>
-                    <div className='projects-inner'>
-                                <Slider {...settings}>
-        <div className='projects-slider'>
-          <div className='single-box'>
-          <img className='argyle-img' src={ require('../assets/images/argyle-icon.png') } ></img>
-          </div>
-        </div>
-        <div className='projects-slider'>
-          <div className='single-box'>
-          <img src={ require('../assets/images/salpay-icon.png') } ></img>
-          </div>
-        </div>
-        <div className='projects-slider'>
-          <div className='single-box'>
-          <img src={ require('../assets/images/medpay-icon.png') } ></img>
-          </div>
-        </div>
-        <div className='projects-slider'>
-          <div className='single-box'>
-          <img className='argyle-img' src={ require('../assets/images/argyle-icon.png') } ></img>
-          </div>
-        </div>
-        <div className='projects-slider'>
-          <div className='single-box'>
-          <img src={ require('../assets/images/salpay-icon.png') } ></img>
-          </div>
-        </div>
-        <div className='projects-slider'>
-          <div className='single-box'>
-          <img src={ require('../assets/images/medpay-icon.png') } ></img>
-          </div>
-        </div>
-      </Slider>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+      
     
 
 
@@ -486,22 +394,22 @@ scrollToTop= () => {
                           <div className='single-box'>
                                <svg id="Layer" enable-background="new 0 0 64 64" height="512" viewBox="0 0 64 64" width="512" xmlns="http://www.w3.org/2000/svg"><path d="m32 8c-13.234 0-24 10.767-24 24s10.766 24 24 24c13.233 0 24-10.767 24-24s-10.767-24-24-24zm0 44c-11.028 0-20-8.972-20-20s8.972-20 20-20 20 8.972 20 20-8.972 20-20 20z"/><path d="m28 23h-8c-1.104 0-2 .896-2 2v8c0 1.104.896 2 2 2h5.522c-.423.847-1.106 1.556-1.994 2l-.423.212c-.988.494-1.388 1.695-.894 2.684.351.7 1.057 1.104 1.79 1.104.301 0 .606-.067.894-.212l.422-.211c2.889-1.444 4.683-4.348 4.683-7.577v-8c0-1.104-.896-2-2-2zm-6 4h4v4h-4z"/><path d="m44 23h-8c-1.104 0-2 .896-2 2v8c0 1.104.896 2 2 2h5.522c-.423.847-1.106 1.556-1.993 1.999l-.424.212c-.988.494-1.389 1.695-.895 2.684.352.701 1.058 1.105 1.792 1.105.3 0 .605-.067.893-.211l.424-.212c2.887-1.444 4.681-4.348 4.681-7.577v-8c0-1.104-.896-2-2-2zm-6 4h4v4h-4z"/></svg>
                                               <p>
-                                              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                                              I love working with the team at Riverline. My experience has been very good and I can only recommend everyone to give it a try. Absolutely professional service around the clock.
                                               </p>
                                 <div className='person-div clearfix'>
                                   <ul className='clearfix'>
                                     <li className='clearfix'>
                                       <div className='img-div'>
-                                      <img src={ require('../assets/images/testimonial-rony.png') } ></img>
+                                      <img src={ require('../assets/images/person.png') } ></img>
                                       </div>
                                     </li>
                                     <li className='clearfix pos-relative'>
                                       <div className='abs-name-project-div'>
                                       <p className='name'>
-                                        roni baibochaev
+                                        Kenzi Wang
                                       </p>
                                       <p className='project'>
-                                        cryptoxchange
+                                        Tidal
                                       </p>
                                       </div>
                                       
@@ -517,7 +425,7 @@ scrollToTop= () => {
                           <div className='single-box'>
                                <svg id="Layer" enableBackground="new 0 0 64 64" height="512" viewBox="0 0 64 64" width="512" xmlns="http://www.w3.org/2000/svg"><path d="m32 8c-13.234 0-24 10.767-24 24s10.766 24 24 24c13.233 0 24-10.767 24-24s-10.767-24-24-24zm0 44c-11.028 0-20-8.972-20-20s8.972-20 20-20 20 8.972 20 20-8.972 20-20 20z"/><path d="m28 23h-8c-1.104 0-2 .896-2 2v8c0 1.104.896 2 2 2h5.522c-.423.847-1.106 1.556-1.994 2l-.423.212c-.988.494-1.388 1.695-.894 2.684.351.7 1.057 1.104 1.79 1.104.301 0 .606-.067.894-.212l.422-.211c2.889-1.444 4.683-4.348 4.683-7.577v-8c0-1.104-.896-2-2-2zm-6 4h4v4h-4z"/><path d="m44 23h-8c-1.104 0-2 .896-2 2v8c0 1.104.896 2 2 2h5.522c-.423.847-1.106 1.556-1.993 1.999l-.424.212c-.988.494-1.389 1.695-.895 2.684.352.701 1.058 1.105 1.792 1.105.3 0 .605-.067.893-.211l.424-.212c2.887-1.444 4.681-4.348 4.681-7.577v-8c0-1.104-.896-2-2-2zm-6 4h4v4h-4z"/></svg>
                                               <p>
-                                              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                                              Working with Riverline has been an absolute pleasure at every juncture in the projects we have collaborated on. The team is highly dedicated to their commitments and take great pains in working to deliver on time.
                                               </p>
                                 <div className='person-div clearfix'>
                                   <ul className='clearfix'>
@@ -529,10 +437,10 @@ scrollToTop= () => {
                                     <li className='clearfix pos-relative'>
                                       <div className='abs-name-project-div'>
                                       <p className='name'>
-                                        roni baibochaev
+                                        Prateek
                                       </p>
                                       <p className='project'>
-                                        cryptoxchange
+                                        Sublime
                                       </p>
                                       </div>
                                       
@@ -563,7 +471,7 @@ scrollToTop= () => {
                   <Slider {...settings}>
         <div className='partners-slider'>
           <div className='single-box'>
-          <img className='credits-img' src={ require('../assets/images/credits-icon.png') } ></img>
+          <img className='credits-img' src={ require('../assets/images/blackfish.png') } ></img>
             <span>
 
             </span>
@@ -571,7 +479,7 @@ scrollToTop= () => {
         </div>
         <div className='partners-slider'>
           <div className='single-box'>
-          <img src={ require('../assets/images/EY-icon.png') } ></img>
+          <img src={ require('../assets/images/ideo-logo.png') } ></img>
           <span>
               
             </span>
@@ -579,30 +487,11 @@ scrollToTop= () => {
         </div>
         <div className='partners-slider'>
           <div className='single-box'>
-          <img src={ require('../assets/images/medpay-icon.png') } ></img>
+          <img src={ require('../assets/images/crypton-logo.png') } ></img>
           </div>
         </div>
-        <div className='partners-slider'>
-          <div className='single-box'>
-          <img className='credits-img' src={ require('../assets/images/credits-icon.png') } ></img>
-            <span>
-
-            </span>
-        </div>
-        </div>
-        <div className='partners-slider'>
-          <div className='single-box'>
-          <img src={ require('../assets/images/EY-icon.png') } ></img>
-          <span>
-              
-            </span>
-          </div>
-        </div>
-        <div className='partners-slider'>
-          <div className='single-box'>
-          <img src={ require('../assets/images/medpay-icon.png') } ></img>
-          </div>
-        </div>
+       
+        
       </Slider>
                   </div>
             </div>
@@ -671,146 +560,7 @@ scrollToTop= () => {
       </section>
 
 
-      <section className='team'>
-        <div className='team-inner-bg'>
-        <div className='container'>
-            <div className='width-adjustment'>
-                  <p className='heading'>
-                  team
-                  </p>
 
-                  <div className='team-inner'>
-                  <Slider {...settings}>
-        <div className='team-slider'>
-          <div className='single-box'>
-              <div>
-                  <img src={ require('../assets/images/ceo-img.png') } ></img>
-                  <div className='team-overlay-div'>
-                      <div className='social-media-icon-bar'>
-                      <ul>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_linkedin</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M40.9,41.09h0v-11c0-5.38-1.16-9.53-7.45-9.53a6.5,6.5,0,0,0-5.88,3.24h-.09V21.06h-6v20h6.21V31.17c0-2.61.5-5.14,3.73-5.14s3.24,3,3.24,5.31v9.75Zm0,0" transform="translate(0.09 -0.09)"/><rect className="cls-2" x="11.49" y="20.97" width="6.22" height="20.03"/><path className="cls-2" d="M14.51,11.09a3.62,3.62,0,1,0,3.6,3.6,3.6,3.6,0,0,0-3.6-3.6Zm0,0" transform="translate(0.09 -0.09)"/></svg>
-                        </li>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_twitter</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M43,15.47a14.84,14.84,0,0,1-4,1.1,6.93,6.93,0,0,0,3.08-3.86,14.19,14.19,0,0,1-4.44,1.69,7,7,0,0,0-11.93,6.38,19.81,19.81,0,0,1-14.42-7.32A7.1,7.1,0,0,0,10.31,17a7,7,0,0,0,3.1,5.81A7,7,0,0,1,10.25,22V22a7,7,0,0,0,5.61,6.87,6.82,6.82,0,0,1-1.84.23A5.74,5.74,0,0,1,12.7,29a7.07,7.07,0,0,0,6.53,4.88,14.06,14.06,0,0,1-8.67,3,13.14,13.14,0,0,1-1.67-.1A19.68,19.68,0,0,0,19.62,39.9c12.87,0,19.9-10.66,19.9-19.9,0-.31,0-.61,0-.9A14.21,14.21,0,0,0,43,15.47Z" transform="translate(0.06 -0.04)"/></svg>
-                        </li>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_skype</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M40.09,29.71A14.18,14.18,0,0,0,23.71,12.82,8.29,8.29,0,0,0,11,19.73a8,8,0,0,0,1.13,4.13,14.19,14.19,0,0,0,16.6,16.67,8.44,8.44,0,0,0,3.91,1,8.17,8.17,0,0,0,7.42-11.78Zm-14,6.65c-2.92,0-5.78-.71-7.46-3.12-2.52-3.56.8-5.34,2.43-4,1.35,1.14.93,3.92,4.92,3.92,1.76,0,3.93-.75,3.93-2.5,0-3.51-7.79-1.85-10.88-5.67a4.7,4.7,0,0,1,0-5.67c2.44-3.13,9.58-3.32,12.65-1,2.84,2.2,2.07,5.11-.22,5.11-2.75,0-1.3-3.6-5.75-3.6-3.22,0-4.48,2.29-2.22,3.4,3,1.5,10.91,1,10.91,7,0,4.18-4,6.08-8.35,6.08Zm0,0" transform="translate(0.01 -0.53)"/></svg>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div className='name-desgn-div'>
-                    <p className='name'>
-                    Ali Zain
-                    </p>
-                    <p className='designation'>
-                    Cheif Executive Officer<br/>
-                        (CEO)
-                    </p>
-                  </div>
-              </div>
-          </div>
-        </div>
-        <div className='team-slider'>
-        <div className='single-box'>
-              <div>
-                  <img src={ require('../assets/images/ceo-img.png') } ></img>
-                  <div className='team-overlay-div'>
-                      <div className='social-media-icon-bar'>
-                      <ul>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_linkedin</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M40.9,41.09h0v-11c0-5.38-1.16-9.53-7.45-9.53a6.5,6.5,0,0,0-5.88,3.24h-.09V21.06h-6v20h6.21V31.17c0-2.61.5-5.14,3.73-5.14s3.24,3,3.24,5.31v9.75Zm0,0" transform="translate(0.09 -0.09)"/><rect className="cls-2" x="11.49" y="20.97" width="6.22" height="20.03"/><path className="cls-2" d="M14.51,11.09a3.62,3.62,0,1,0,3.6,3.6,3.6,3.6,0,0,0-3.6-3.6Zm0,0" transform="translate(0.09 -0.09)"/></svg>
-                        </li>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_twitter</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M43,15.47a14.84,14.84,0,0,1-4,1.1,6.93,6.93,0,0,0,3.08-3.86,14.19,14.19,0,0,1-4.44,1.69,7,7,0,0,0-11.93,6.38,19.81,19.81,0,0,1-14.42-7.32A7.1,7.1,0,0,0,10.31,17a7,7,0,0,0,3.1,5.81A7,7,0,0,1,10.25,22V22a7,7,0,0,0,5.61,6.87,6.82,6.82,0,0,1-1.84.23A5.74,5.74,0,0,1,12.7,29a7.07,7.07,0,0,0,6.53,4.88,14.06,14.06,0,0,1-8.67,3,13.14,13.14,0,0,1-1.67-.1A19.68,19.68,0,0,0,19.62,39.9c12.87,0,19.9-10.66,19.9-19.9,0-.31,0-.61,0-.9A14.21,14.21,0,0,0,43,15.47Z" transform="translate(0.06 -0.04)"/></svg>
-                        </li>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_skype</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M40.09,29.71A14.18,14.18,0,0,0,23.71,12.82,8.29,8.29,0,0,0,11,19.73a8,8,0,0,0,1.13,4.13,14.19,14.19,0,0,0,16.6,16.67,8.44,8.44,0,0,0,3.91,1,8.17,8.17,0,0,0,7.42-11.78Zm-14,6.65c-2.92,0-5.78-.71-7.46-3.12-2.52-3.56.8-5.34,2.43-4,1.35,1.14.93,3.92,4.92,3.92,1.76,0,3.93-.75,3.93-2.5,0-3.51-7.79-1.85-10.88-5.67a4.7,4.7,0,0,1,0-5.67c2.44-3.13,9.58-3.32,12.65-1,2.84,2.2,2.07,5.11-.22,5.11-2.75,0-1.3-3.6-5.75-3.6-3.22,0-4.48,2.29-2.22,3.4,3,1.5,10.91,1,10.91,7,0,4.18-4,6.08-8.35,6.08Zm0,0" transform="translate(0.01 -0.53)"/></svg>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div className='name-desgn-div'>
-                    <p className='name'>
-                    Ali Zain
-                    </p>
-                    <p className='designation'>
-                    Cheif Executive Officer<br/>
-                        (CEO)
-                    </p>
-                  </div>
-              </div>
-          </div>
-        </div>
-        <div className='team-slider'>
-        <div className='single-box'>
-              <div>
-                  <img src={ require('../assets/images/ceo-img.png') } ></img>
-                  <div className='team-overlay-div'>
-                      <div className='social-media-icon-bar'>
-                      <ul>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_linkedin</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M40.9,41.09h0v-11c0-5.38-1.16-9.53-7.45-9.53a6.5,6.5,0,0,0-5.88,3.24h-.09V21.06h-6v20h6.21V31.17c0-2.61.5-5.14,3.73-5.14s3.24,3,3.24,5.31v9.75Zm0,0" transform="translate(0.09 -0.09)"/><rect className="cls-2" x="11.49" y="20.97" width="6.22" height="20.03"/><path className="cls-2" d="M14.51,11.09a3.62,3.62,0,1,0,3.6,3.6,3.6,3.6,0,0,0-3.6-3.6Zm0,0" transform="translate(0.09 -0.09)"/></svg>
-                        </li>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_twitter</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M43,15.47a14.84,14.84,0,0,1-4,1.1,6.93,6.93,0,0,0,3.08-3.86,14.19,14.19,0,0,1-4.44,1.69,7,7,0,0,0-11.93,6.38,19.81,19.81,0,0,1-14.42-7.32A7.1,7.1,0,0,0,10.31,17a7,7,0,0,0,3.1,5.81A7,7,0,0,1,10.25,22V22a7,7,0,0,0,5.61,6.87,6.82,6.82,0,0,1-1.84.23A5.74,5.74,0,0,1,12.7,29a7.07,7.07,0,0,0,6.53,4.88,14.06,14.06,0,0,1-8.67,3,13.14,13.14,0,0,1-1.67-.1A19.68,19.68,0,0,0,19.62,39.9c12.87,0,19.9-10.66,19.9-19.9,0-.31,0-.61,0-.9A14.21,14.21,0,0,0,43,15.47Z" transform="translate(0.06 -0.04)"/></svg>
-                        </li>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_skype</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M40.09,29.71A14.18,14.18,0,0,0,23.71,12.82,8.29,8.29,0,0,0,11,19.73a8,8,0,0,0,1.13,4.13,14.19,14.19,0,0,0,16.6,16.67,8.44,8.44,0,0,0,3.91,1,8.17,8.17,0,0,0,7.42-11.78Zm-14,6.65c-2.92,0-5.78-.71-7.46-3.12-2.52-3.56.8-5.34,2.43-4,1.35,1.14.93,3.92,4.92,3.92,1.76,0,3.93-.75,3.93-2.5,0-3.51-7.79-1.85-10.88-5.67a4.7,4.7,0,0,1,0-5.67c2.44-3.13,9.58-3.32,12.65-1,2.84,2.2,2.07,5.11-.22,5.11-2.75,0-1.3-3.6-5.75-3.6-3.22,0-4.48,2.29-2.22,3.4,3,1.5,10.91,1,10.91,7,0,4.18-4,6.08-8.35,6.08Zm0,0" transform="translate(0.01 -0.53)"/></svg>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div className='name-desgn-div'>
-                    <p className='name'>
-                    Ali Zain
-                    </p>
-                    <p className='designation'>
-                    Cheif Executive Officer<br/>
-                        (CEO)
-                    </p>
-                  </div>
-              </div>
-          </div>
-        </div>
-        <div className='team-slider'>
-        <div className='single-box'>
-              <div>
-                  <img src={ require('../assets/images/ceo-img.png') } ></img>
-                  <div className='team-overlay-div'>
-                      <div className='social-media-icon-bar'>
-                      <ul>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_linkedin</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M40.9,41.09h0v-11c0-5.38-1.16-9.53-7.45-9.53a6.5,6.5,0,0,0-5.88,3.24h-.09V21.06h-6v20h6.21V31.17c0-2.61.5-5.14,3.73-5.14s3.24,3,3.24,5.31v9.75Zm0,0" transform="translate(0.09 -0.09)"/><rect className="cls-2" x="11.49" y="20.97" width="6.22" height="20.03"/><path className="cls-2" d="M14.51,11.09a3.62,3.62,0,1,0,3.6,3.6,3.6,3.6,0,0,0-3.6-3.6Zm0,0" transform="translate(0.09 -0.09)"/></svg>
-                        </li>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_twitter</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M43,15.47a14.84,14.84,0,0,1-4,1.1,6.93,6.93,0,0,0,3.08-3.86,14.19,14.19,0,0,1-4.44,1.69,7,7,0,0,0-11.93,6.38,19.81,19.81,0,0,1-14.42-7.32A7.1,7.1,0,0,0,10.31,17a7,7,0,0,0,3.1,5.81A7,7,0,0,1,10.25,22V22a7,7,0,0,0,5.61,6.87,6.82,6.82,0,0,1-1.84.23A5.74,5.74,0,0,1,12.7,29a7.07,7.07,0,0,0,6.53,4.88,14.06,14.06,0,0,1-8.67,3,13.14,13.14,0,0,1-1.67-.1A19.68,19.68,0,0,0,19.62,39.9c12.87,0,19.9-10.66,19.9-19.9,0-.31,0-.61,0-.9A14.21,14.21,0,0,0,43,15.47Z" transform="translate(0.06 -0.04)"/></svg>
-                        </li>
-                        <li>
-                        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_skype</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M40.09,29.71A14.18,14.18,0,0,0,23.71,12.82,8.29,8.29,0,0,0,11,19.73a8,8,0,0,0,1.13,4.13,14.19,14.19,0,0,0,16.6,16.67,8.44,8.44,0,0,0,3.91,1,8.17,8.17,0,0,0,7.42-11.78Zm-14,6.65c-2.92,0-5.78-.71-7.46-3.12-2.52-3.56.8-5.34,2.43-4,1.35,1.14.93,3.92,4.92,3.92,1.76,0,3.93-.75,3.93-2.5,0-3.51-7.79-1.85-10.88-5.67a4.7,4.7,0,0,1,0-5.67c2.44-3.13,9.58-3.32,12.65-1,2.84,2.2,2.07,5.11-.22,5.11-2.75,0-1.3-3.6-5.75-3.6-3.22,0-4.48,2.29-2.22,3.4,3,1.5,10.91,1,10.91,7,0,4.18-4,6.08-8.35,6.08Zm0,0" transform="translate(0.01 -0.53)"/></svg>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div className='name-desgn-div'>
-                    <p className='name'>
-                    Ali Zain
-                    </p>
-                    <p className='designation'>
-                    Cheif Executive Officer<br/>
-                        (CEO)
-                    </p>
-                  </div>
-              </div>
-          </div>
-        </div>
-      </Slider>
-                  </div>
-            </div>
-          </div>
-        </div>
-    </section>
 
 
     <section className='careers' id='careers'>
@@ -835,73 +585,7 @@ scrollToTop= () => {
     </section>
 
 
-    <section className='blogs' id='blogs'>
-        <div className='blogs-inner-bg'>
-          <div className='container'>
-            <div className='width-adjustment'>
-                  <p className='heading'>
-                  news <span className='slash'>/</span> <span className='blogs'>blogs</span>
-                  </p>
-                    <div className='blogs-inner'>
-                    <Slider {...settings}>
-                      <div className='blogs-slider'>
-                        <div className='single-box'>
-                              <div className='bordered-div'>
-                                    <img src={ require('../assets/images/blog-1.png') } ></img>
-                                    <div className='blog-overlay-div'>
-                                    <div className="gradient-box">
-                                        <p>Read More</p>
-                                    </div>
-                                    </div>
-                              </div>
-                              
-                        </div>
-                      </div>
-                      <div className='blogs-slider'>
-                      <div className='single-box'>
-                              <div className='bordered-div'>
-                                    <img src={ require('../assets/images/blog-1.png') } ></img>
-                                    <div className='blog-overlay-div'>
-                                    <div className="gradient-box">
-                                        <p>Read More</p>
-                                    </div>
-                                    </div>
-                              </div>
-                              
-                        </div>
-                      </div>
-                      <div className='blogs-slider'>
-                      <div className='single-box'>
-                              <div className='bordered-div'>
-                                    <img src={ require('../assets/images/blog-1.png') } ></img>
-                                    <div className='blog-overlay-div'>
-                                    <div className="gradient-box">
-                                        <p>Read More</p>
-                                    </div>
-                                    </div>
-                              </div>
-                              
-                        </div>
-                      </div>
-                      <div className='blogs-slider'>
-                      <div className='single-box'>
-                              <div className='bordered-div'>
-                                    <img src={ require('../assets/images/blog-1.png') } ></img>
-                                    <div className='blog-overlay-div'>
-                                    <div className="gradient-box">
-                                        <p>Read More</p>
-                                    </div>
-                                    </div>
-                              </div>
-                              
-                        </div>
-                      </div>
-                    </Slider>
-                    </div>
-            </div>
-          </div>
-       </div>
-    </section>
+    
 
     <section className='contact-us' id='contact-us'>
         <div className='contact-us-inner-bg'>
@@ -920,11 +604,11 @@ scrollToTop= () => {
                             </div>
                             <div className='clearfix righty'>
                             <p className='address'>
-                                  Office No.1, 1st Floor, Plaza 44-C,<br/>
-                                  Civic Center, Phase 4,<br/>
-                                  Bahria Town,<br/>
-                                  Islamabad,<br/>
-                                  Pakistan
+                                  G-D-FLEX-G038B, G-D-FLEX-G039B<br/>
+                                  Technohub<br/>
+                                  Dubai Silicon Oasis<br/>
+                                  Dubai<br/>
+                                  UAE
                                   </p>
                             </div>
                           </div>
@@ -935,42 +619,19 @@ scrollToTop= () => {
                             </div>
                             <div className='clearfix righty'>
                                 <p className='address'>
-                                +92-51-541-1473
-                                  </p>
+                                info@riverlinetechnologies.com
+                                </p>
                             </div>
                           </div>
-                          <ul>
-                            <li>
-                            <img className='clutch-logo' src={ require('../assets/images/clutch-logo.png') } ></img>
-                            </li>
-                            <li>
-                            <img className='blockchain-usa' src={ require('../assets/images/blockchain-usa.png') } ></img>
-                            </li>
-                          </ul>
+                          
 
                           <div className='social-media-icon-bar'>
                   <ul>
-                    <li>
-                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_facebook</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M34.12,9H29.73c-4.93,0-8.12,3.27-8.12,8.33v3.85H17.19a.69.69,0,0,0-.69.69v5.57a.69.69,0,0,0,.69.69h4.42V42.18a.69.69,0,0,0,.69.69h5.76a.69.69,0,0,0,.69-.69v-14h5.16a.69.69,0,0,0,.69-.69V21.87a.69.69,0,0,0-.21-.49.66.66,0,0,0-.48-.2H28.75V17.92c0-1.57.37-2.36,2.41-2.36h3a.69.69,0,0,0,.69-.69V9.69A.69.69,0,0,0,34.12,9Zm0,0" transform="translate(0.25 0.02)"/></svg>
-                    </li>
-                    <li>
-                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_messenger</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M47,15.71c-4.13,5.91-7.38,12.54-12,18-2,2.28-5.88,1.58-6.9.46-7.25-8-13.17-4.28-19.17,1.38-.52.49-3.88,2.44-3.46.15,3.73-5.55,7.22-11.28,11.4-16.46.74-.91,5.18-1.25,6.45.93C27.67,27.72,34,24,40.12,19.67c2.1-1.48,4.63-2.72,6.6-4.23Z" transform="translate(0.61 -0.59)"/></svg>
-                    </li>
-                    <li>
-                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_whatsapp</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M33.55,29.51v.1c-3.11-1.55-3.44-1.76-3.84-1.15-.28.41-1.1,1.36-1.34,1.64s-.49.3-.92.11A11.53,11.53,0,0,1,24,28.1a12.56,12.56,0,0,1-2.35-2.93c-.42-.72.45-.82,1.24-2.31a.81.81,0,0,0,0-.75c-.11-.21-1-2.29-1.31-3.12s-.69-.72-.95-.72a2.13,2.13,0,0,0-1.94.48c-2.29,2.52-1.71,5.11.25,7.87,3.84,5,5.89,6,9.64,7.24a5.79,5.79,0,0,0,2.66.17,4.39,4.39,0,0,0,2.86-2,3.47,3.47,0,0,0,.25-2c-.1-.19-.38-.29-.81-.48Z" transform="translate(0.18 -0.17)"/><path className="cls-2" d="M37.89,14.06C27,3.53,9,11.17,9,26a16.76,16.76,0,0,0,2.26,8.42l-2.4,8.73,9-2.34a17,17,0,0,0,25-14.8,16.71,16.71,0,0,0-5-11.91ZM40,26A14.11,14.11,0,0,1,18.72,38l-.51-.3L12.9,39.11,14.32,34,14,33.41A14.05,14.05,0,1,1,40,26Z" transform="translate(0.18 -0.17)"/></svg>
-                    </li>
+                    
                     <li>
                     <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_linkedin</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M40.9,41.09h0v-11c0-5.38-1.16-9.53-7.45-9.53a6.5,6.5,0,0,0-5.88,3.24h-.09V21.06h-6v20h6.21V31.17c0-2.61.5-5.14,3.73-5.14s3.24,3,3.24,5.31v9.75Zm0,0" transform="translate(0.09 -0.09)"/><rect className="cls-2" x="11.49" y="20.97" width="6.22" height="20.03"/><path className="cls-2" d="M14.51,11.09a3.62,3.62,0,1,0,3.6,3.6,3.6,3.6,0,0,0-3.6-3.6Zm0,0" transform="translate(0.09 -0.09)"/></svg>
                     </li>
-                    <li>
-                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_twitter</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M43,15.47a14.84,14.84,0,0,1-4,1.1,6.93,6.93,0,0,0,3.08-3.86,14.19,14.19,0,0,1-4.44,1.69,7,7,0,0,0-11.93,6.38,19.81,19.81,0,0,1-14.42-7.32A7.1,7.1,0,0,0,10.31,17a7,7,0,0,0,3.1,5.81A7,7,0,0,1,10.25,22V22a7,7,0,0,0,5.61,6.87,6.82,6.82,0,0,1-1.84.23A5.74,5.74,0,0,1,12.7,29a7.07,7.07,0,0,0,6.53,4.88,14.06,14.06,0,0,1-8.67,3,13.14,13.14,0,0,1-1.67-.1A19.68,19.68,0,0,0,19.62,39.9c12.87,0,19.9-10.66,19.9-19.9,0-.31,0-.61,0-.9A14.21,14.21,0,0,0,43,15.47Z" transform="translate(0.06 -0.04)"/></svg>
-                    </li>
-                    <li>
-                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_skype</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M40.09,29.71A14.18,14.18,0,0,0,23.71,12.82,8.29,8.29,0,0,0,11,19.73a8,8,0,0,0,1.13,4.13,14.19,14.19,0,0,0,16.6,16.67,8.44,8.44,0,0,0,3.91,1,8.17,8.17,0,0,0,7.42-11.78Zm-14,6.65c-2.92,0-5.78-.71-7.46-3.12-2.52-3.56.8-5.34,2.43-4,1.35,1.14.93,3.92,4.92,3.92,1.76,0,3.93-.75,3.93-2.5,0-3.51-7.79-1.85-10.88-5.67a4.7,4.7,0,0,1,0-5.67c2.44-3.13,9.58-3.32,12.65-1,2.84,2.2,2.07,5.11-.22,5.11-2.75,0-1.3-3.6-5.75-3.6-3.22,0-4.48,2.29-2.22,3.4,3,1.5,10.91,1,10.91,7,0,4.18-4,6.08-8.35,6.08Zm0,0" transform="translate(0.01 -0.53)"/></svg>
-                    </li>
-                    <li>
-                    <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><defs></defs><title>icon_telegram</title><circle className="cls-1" cx="26" cy="26" r="25"/><path className="cls-2" d="M22.13,30.4l-.52,7.26a1.8,1.8,0,0,0,1.45-.7l3.46-3.31,7.18,5.26c1.31.73,2.24.35,2.6-1.21L41,15.62h0c.42-1.94-.7-2.7-2-2.23L11.33,24c-1.89.74-1.86,1.79-.32,2.27l7.08,2.2L34.53,18.17c.78-.51,1.48-.23.9.29Z" transform="translate(0.51 -0.26)"/></svg>
-                    </li>
+                    
                   </ul>
                 </div>
                         </div>
@@ -1013,14 +674,10 @@ scrollToTop= () => {
           <div className='container'>
             <div className='width-adjustment'>
                   <div className='row'>
-                      <div className='col-sm-3'>
-                            <p className='privacy-policy-p'>
-                              <a className='privacy-policy-p' href='/privacy-policy'>Privacy Policy</a>
-                            </p>
-                      </div>
-                      <div className='col-sm-6'>
-                      <p className='privacy-policy-p txt-center'>
-                      Copyright © 2020 Ideofuzion. All rights reserved.
+                      
+                      <div className='col-sm-9'>
+                      <p className='privacy-policy-p txt-left'>
+                      Copyright © 2021 Riverline Technologies - FZE. All rights reserved.
                         </p>
                       </div>
                       <div className='col-sm-3'>

@@ -30,21 +30,13 @@ const navbar = (props) => {
                   services
                 </a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link"   href="/#projects">
-                  projects
-                </a>
-              </li>
+              
               <li className="nav-item">
                 <a className="nav-link"   href="/#careers">
                   careers
                 </a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link"   href="/#blogs">
-                  news/blogs
-                </a>
-              </li>
+              
               <li className="nav-item">
                 <a className="nav-link"   href="/#contact-us">
                   contact us
